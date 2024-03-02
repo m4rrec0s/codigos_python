@@ -1,6 +1,6 @@
 # importação de funções criadas em pacotes separados
-from mini_sistema_de_cadastro import funcoes
-from mini_sistema_de_cadastro import arquivo
+import funcoes
+import arquivo
 from time import sleep
 
 # nome do arquivo de txt gerado/aberto pelo programa

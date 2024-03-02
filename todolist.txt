@@ -1,0 +1,4 @@
+Tomar banho;11
+=> Preciso tomar banho para lavar a cirurgia e ficar limpo para o dia.
+Almoçar;12
+=> almoçar para ficar forte contra infecções.
