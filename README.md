@@ -1,4 +1,4 @@
-## 1ª - munu em python (cadastro de pessoas)
+## 1ª - menu em python (cadastro de pessoas)
 * Um dos códigos em python que fiz durante meu estudo da linguagem.
 
 > créditos: canal Curso Em Vídeo - Professor Gustavo Guanabara
